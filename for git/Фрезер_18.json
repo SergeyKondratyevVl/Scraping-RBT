@@ -1,0 +1,15 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 6490,
+        "ItemId": 373736,
+        "Vendor": "Вихрь",
+        "Description": "Мощность: 1900 Вт; Максимальная глубина резания: 0 мм; Минимальный размер цанги: 6 мм; Регулировка оборотов: есть",
+        "TypePrefix": "Фрезер",
+        "Model": "Фм-1900",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/frezery/vihr_fm-1900",
+        "Name": "Фрезер Вихрь Фм-1900",
+        "CategoryIds": 18,
+        "comments": "76"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "0": {
+        "OldPrice": 34990,
+        "Price": 30990,
+        "ItemId": 782248,
+        "Vendor": "Amcv",
+        "Description": "Процессор: Intel Core i5; Частота процессора: 3 ГГц; Объем оперативной памяти: 8 Гб",
+        "TypePrefix": "Системный блок",
+        "Model": "I059 Home&Office Intel Core I5 X4 3,0 Ghz/8gb/512gb Ssd/Dos",
+        "Url": "https://rbt.ru/cat/komputery_i_orgtehnika/sistemnye_bloki/amcv_i059_home_office_intel_core_i5_x4_3_0_ghz_8gb_512gb_ssd_dos",
+        "Name": "Системный блок Amcv I059 Home&Office Intel Core I5 X4 3,0 Ghz/8gb/512gb Ssd/Dos",
+        "CategoryIds": 149,
+        "comments": "1"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 24990,
+        "ItemId": 772984,
+        "Vendor": "Amcv",
+        "Description": "Процессор: AMD A8; Частота процессора: 3.1 ГГц; Объем оперативной памяти: 8 Гб",
+        "TypePrefix": "Системный блок",
+        "Model": "A054 Home&Office Amd A8-9600/8gb/256gb Ssd/Graphics R7/Dos",
+        "Url": "https://rbt.ru/cat/komputery_i_orgtehnika/sistemnye_bloki/amcv_a054_home_office_amd_a8_9600_8gb_256gb_ssd_graphics_r7_dos",
+        "Name": "Системный блок Amcv A054 Home&Office Amd A8-9600/8gb/256gb Ssd/Graphics R7/Dos",
+        "CategoryIds": 149,
+        "comments": ""
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 29990,
+        "ItemId": 711285,
+        "Vendor": "Amcv",
+        "Description": "Процессор: Intel Core i5; Частота процессора: 2.5 ГГц; Объем оперативной памяти: 8 Гб",
+        "TypePrefix": "Системный блок",
+        "Model": "I037 Home&Office Intel Core I5/8gb/256gb/Dvdrw/Dos",
+        "Url": "https://rbt.ru/cat/komputery_i_orgtehnika/sistemnye_bloki/amcv_i037_home_office_intel_core_i5_8gb_256gb_dvdrw_dos",
+        "Name": "Системный блок Amcv I037 Home&Office Intel Core I5/8gb/256gb/Dvdrw/Dos",
+        "CategoryIds": 149,
+        "comments": ""
+    },
+    "3": {
+        "OldPrice": 21990,
+        "Price": 19990,
+        "ItemId": 788474,
+        "Vendor": "Amcv",
+        "Description": "",
+        "TypePrefix": "Системный блок",
+        "Model": "A058 Home&Office Amd A6-4400m 2.7 Ghz/8gb/256gb Ssd/Dos",
+        "Url": "https://rbt.ru/cat/komputery_i_orgtehnika/sistemnye_bloki/amcv_a058_home_office_amd_a6_4400m_2._7_ghz_8gb_256gb_ssd_dos",
+        "Name": "Системный блок Amcv A058 Home&Office Amd A6-4400m 2.7 Ghz/8gb/256gb Ssd/Dos",
+        "CategoryIds": 149,
+        "comments": ""
+    },
+    "4": {
+        "OldPrice": 0,
+        "Price": 9990,
+        "ItemId": 735248,
+        "Vendor": "Amcv",
+        "Description": "Процессор: Intel Celeron; Частота процессора: 2.41 ГГц; Объем оперативной памяти: 4 Гб",
+        "TypePrefix": "Системный блок",
+        "Model": "I044 Home&Office Intel Celeron J1800/4gb/256gb/Dos",
+        "Url": "https://rbt.ru/cat/komputery_i_orgtehnika/sistemnye_bloki/amcv_i044_home_office_intel_celeron_j1800_4gb_256gb_dos",
+        "Name": "Системный блок Amcv I044 Home&Office Intel Celeron J1800/4gb/256gb/Dos",
+        "CategoryIds": 149,
+        "comments": "2"
+    },
+    "5": {
+        "OldPrice": 0,
+        "Price": 41990,
+        "ItemId": 774876,
+        "Vendor": "Iru",
+        "Description": "Процессор: AMD Ryzen 3; Частота процессора: 3.1 ГГц; Объем оперативной памяти: 8 Гб",
+        "TypePrefix": "Системный блок",
+        "Model": "Iru Home 320a3se Ryzen 3 1200/8gb/Ssd480gb/Gt1030 2gb/Win10 Черный",
+        "Url": "https://rbt.ru/cat/komputery_i_orgtehnika/sistemnye_bloki/iru_home_320a3se_ryzen_3_1200_8gb_ssd480gb_gt1030_2gb_win10_chernyy",
+        "Name": "Системный блок Iru Iru Home 320a3se Ryzen 3 1200/8gb/Ssd480gb/Gt1030 2gb/Win10 Черный",
+        "CategoryIds": 149,
+        "comments": ""
+    }
+}

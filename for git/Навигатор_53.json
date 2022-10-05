@@ -1,0 +1,41 @@
+{
+    "0": {
+        "OldPrice": 5990,
+        "Price": 3890,
+        "ItemId": 595862,
+        "Vendor": "Navitel",
+        "Description": "Программное обеспечение: Навител; Область применения: автомобильный; Диагональ экрана: 5 дюйм; Разрешение экрана: 480x272",
+        "TypePrefix": "Навигатор",
+        "Model": "Navitel C500",
+        "Url": "https://rbt.ru/cat/avtotovary/navigatory/navitel_c500",
+        "Name": "Навигатор Navitel Navitel C500",
+        "CategoryIds": 53,
+        "comments": "95"
+    },
+    "1": {
+        "OldPrice": 8990,
+        "Price": 6990,
+        "ItemId": 696622,
+        "Vendor": "Navitel",
+        "Description": "Программное обеспечение: Навител; Область применения: автомобильный; Диагональ экрана: 7 дюйм; Разрешение экрана: 800x480",
+        "TypePrefix": "Навигатор",
+        "Model": "Navitel E707 Magnetic",
+        "Url": "https://rbt.ru/cat/avtotovary/navigatory/navitel_e707_magnetic",
+        "Name": "Навигатор Navitel Navitel E707 Magnetic",
+        "CategoryIds": 53,
+        "comments": "13"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 6990,
+        "ItemId": 610661,
+        "Vendor": "Navitel",
+        "Description": "Программное обеспечение: Навител; Область применения: автомобильный; Диагональ экрана: 5 дюйм; Разрешение экрана: 800x480",
+        "TypePrefix": "Навигатор",
+        "Model": "Navitel E500 Magnetic",
+        "Url": "https://rbt.ru/cat/avtotovary/navigatory/navitel_e500_magnetic",
+        "Name": "Навигатор Navitel Navitel E500 Magnetic",
+        "CategoryIds": 53,
+        "comments": "35"
+    }
+}

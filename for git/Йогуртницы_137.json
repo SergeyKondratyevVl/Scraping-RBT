@@ -1,0 +1,54 @@
+{
+    "0": {
+        "OldPrice": 1490,
+        "Price": 1192,
+        "ItemId": 565372,
+        "Vendor": "Binatone",
+        "Description": "Приготовление творога: нет; Количество баночек: 7 шт; Объем баночки: 200 мл; Дисплей: нет",
+        "TypePrefix": "Йогуртницы",
+        "Model": "Ym-704 G",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/iogurtnicy/binatone_ym-704_g",
+        "Name": "Йогуртницы Binatone Ym-704 G",
+        "CategoryIds": 137,
+        "comments": "6"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 3890,
+        "ItemId": 41165,
+        "Vendor": "Redmond",
+        "Description": "Приготовление творога: нет; Количество баночек: 8 шт; Объем баночки: 180 мл; Дисплей: есть",
+        "TypePrefix": "Йогуртницы",
+        "Model": "Rym-M5401",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/iogurtnicy/redmond_rym-m5401",
+        "Name": "Йогуртницы Redmond Rym-M5401",
+        "CategoryIds": 137,
+        "comments": "277"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 2199,
+        "ItemId": 687068,
+        "Vendor": "Kitfort",
+        "Description": "Приготовление творога: -; Количество баночек: 4 шт; Объем баночки: 200 мл; Дисплей: нет",
+        "TypePrefix": "Йогуртницы",
+        "Model": "Кт-2007",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/iogurtnicy/kitfort_kt_2007",
+        "Name": "Йогуртницы Kitfort Кт-2007",
+        "CategoryIds": 137,
+        "comments": ""
+    },
+    "3": {
+        "OldPrice": 0,
+        "Price": 1699,
+        "ItemId": 687067,
+        "Vendor": "Kitfort",
+        "Description": "Приготовление творога: -; Количество баночек: 4 шт; Объем баночки: 200 мл; Дисплей: нет",
+        "TypePrefix": "Йогуртницы",
+        "Model": "Кт-2006",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/iogurtnicy/kitfort_kt_2006",
+        "Name": "Йогуртницы Kitfort Кт-2006",
+        "CategoryIds": 137,
+        "comments": "245"
+    }
+}

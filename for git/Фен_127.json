@@ -1,0 +1,28 @@
+{
+    "0": {
+        "OldPrice": 2290,
+        "Price": 1790,
+        "ItemId": 706461,
+        "Vendor": "Kolner",
+        "Description": "Мощность: 2200 Вт; Максимальная рабочая температура (°С): 600 °С; Регулировка температуры: есть; Расход воздуха: 300-500 л/мин",
+        "TypePrefix": "Фен",
+        "Model": "Kolner Khg 2200",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/promyshlennye_feny/kolner_khg_2200",
+        "Name": "Фен Kolner Kolner Khg 2200",
+        "CategoryIds": 127,
+        "comments": ""
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 1390,
+        "ItemId": 604183,
+        "Vendor": "Bort",
+        "Description": "Мощность: 1500 Вт; Максимальная рабочая температура (°С): 500 °С; Регулировка температуры: есть; Расход воздуха: 240-420 л/мин",
+        "TypePrefix": "Фен",
+        "Model": "Bhg-1600-P",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/promyshlennye_feny/bort_bhg-1600-p",
+        "Name": "Фен Bort Bhg-1600-P",
+        "CategoryIds": 127,
+        "comments": "194"
+    }
+}

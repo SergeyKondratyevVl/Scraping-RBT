@@ -1,0 +1,15 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 7190,
+        "ItemId": 690845,
+        "Vendor": "Вихрь",
+        "Description": "Тип уборки: сухая; Мощность: 1500 Вт; Объём пылесборника: 20 л; Розетка для электроинструмента: есть",
+        "TypePrefix": "Строительный пылесос",
+        "Model": "Сп-1500/20",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/stroitelnye_pylesosy/vihr_sp_1500_20",
+        "Name": "Строительный пылесос Вихрь Сп-1500/20",
+        "CategoryIds": 162,
+        "comments": "23"
+    }
+}

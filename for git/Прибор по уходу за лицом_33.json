@@ -1,0 +1,28 @@
+{
+    "0": {
+        "OldPrice": 4290,
+        "Price": 2999,
+        "ItemId": 753578,
+        "Vendor": "Planta",
+        "Description": "Тип: массажер; Питание: от сети; Особенности: насадка-расческа, насадка-вилка, насадка-грибок, насадка-капля; Количество: 1 шт",
+        "TypePrefix": "Прибор по уходу за лицом",
+        "Model": "Дарсонваль Pl-Dsv4",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/pribory_po_uhodu_za_licom/planta_darsonval_pl-dsv4",
+        "Name": "Прибор по уходу за лицом Planta Дарсонваль Pl-Dsv4",
+        "CategoryIds": 33,
+        "comments": "222"
+    },
+    "1": {
+        "OldPrice": 449,
+        "Price": 349,
+        "ItemId": 664050,
+        "Vendor": "Galaxy",
+        "Description": "Тип: массажер; Питание: батарейки; Особенности: очищение, массаж, восстановление, омоложение, 6 насадок, 2 скорости; Количество: 1 шт",
+        "TypePrefix": "Прибор по уходу за лицом",
+        "Model": "Gl 4941",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/pribory_po_uhodu_za_licom/galaxy_gl_4941",
+        "Name": "Прибор по уходу за лицом Galaxy Gl 4941",
+        "CategoryIds": 33,
+        "comments": "29"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 24990,
+        "ItemId": 604185,
+        "Vendor": "Denn",
+        "Description": "Количество клавиш: 88 шт; Жесткость клавиатуры: невзвешенная; Количество тембров: 8 шт; Полифония: 48 шт",
+        "TypePrefix": "Музыкальный инструмент",
+        "Model": "Pro Pw01",
+        "Url": "https://rbt.ru/cat/tele-video-audio/sintezatory_i_cifrovye_fortepiano/denn_pro_pw01",
+        "Name": "Музыкальный инструмент Denn Pro Pw01",
+        "CategoryIds": 60,
+        "comments": ""
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 1990,
+        "ItemId": 370300,
+        "Vendor": "Doffler",
+        "Description": "Количество клавиш: 0 шт; Жесткость клавиатуры: -; Количество тембров: 0 шт; Полифония: 0 шт",
+        "TypePrefix": "Музыкальный инструмент",
+        "Model": "X-2 Stand",
+        "Url": "https://rbt.ru/cat/tele-video-audio/sintezatory_i_cifrovye_fortepiano/doffler_x-2_stand",
+        "Name": "Музыкальный инструмент Doffler X-2 Stand",
+        "CategoryIds": 60,
+        "comments": "1"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 4990,
+        "ItemId": 756999,
+        "Vendor": "Doffler",
+        "Description": "Количество клавиш: 61 шт; Жесткость клавиатуры: невзвешенная; Количество тембров: 255 шт; Полифония: 0 шт",
+        "TypePrefix": "Музыкальный инструмент",
+        "Model": "Ke 6122",
+        "Url": "https://rbt.ru/cat/tele-video-audio/sintezatory_i_cifrovye_fortepiano/doffler_ke_6122",
+        "Name": "Музыкальный инструмент Doffler Ke 6122",
+        "CategoryIds": 60,
+        "comments": ""
+    },
+    "3": {
+        "OldPrice": 0,
+        "Price": 2290,
+        "ItemId": 604216,
+        "Vendor": "Denn",
+        "Description": "Количество клавиш: 0 шт; Жесткость клавиатуры: -; Количество тембров: 0 шт; Полифония: 0 шт",
+        "TypePrefix": "Музыкальный инструмент",
+        "Model": "Dks001",
+        "Url": "https://rbt.ru/cat/tele-video-audio/sintezatory_i_cifrovye_fortepiano/denn_dks001",
+        "Name": "Музыкальный инструмент Denn Dks001",
+        "CategoryIds": 60,
+        "comments": ""
+    },
+    "4": {
+        "OldPrice": 0,
+        "Price": 6990,
+        "ItemId": 757000,
+        "Vendor": "Doffler",
+        "Description": "Количество клавиш: 61 шт; Жесткость клавиатуры: невзвешенная; Количество тембров: 255 шт; Полифония: 0 шт",
+        "TypePrefix": "Музыкальный инструмент",
+        "Model": "Ke 6188",
+        "Url": "https://rbt.ru/cat/tele-video-audio/sintezatory_i_cifrovye_fortepiano/doffler_ke_6188",
+        "Name": "Музыкальный инструмент Doffler Ke 6188",
+        "CategoryIds": 60,
+        "comments": "1"
+    },
+    "5": {
+        "OldPrice": 0,
+        "Price": 4790,
+        "ItemId": 603058,
+        "Vendor": "Denn",
+        "Description": "Количество клавиш: 49 шт; Жесткость клавиатуры: невзвешенная; Количество тембров: 200 шт; Полифония: 8 шт",
+        "TypePrefix": "Музыкальный инструмент",
+        "Model": "Dek494",
+        "Url": "https://rbt.ru/cat/tele-video-audio/sintezatory_i_cifrovye_fortepiano/denn_dek494",
+        "Name": "Музыкальный инструмент Denn Dek494",
+        "CategoryIds": 60,
+        "comments": "8"
+    },
+    "6": {
+        "OldPrice": 0,
+        "Price": 1290,
+        "ItemId": 623349,
+        "Vendor": "Denn",
+        "Description": "Количество клавиш: 37 шт; Жесткость клавиатуры: невзвешенная; Количество тембров: 8 шт; Полифония: 4 шт",
+        "TypePrefix": "Музыкальный инструмент",
+        "Model": "Dek37 Mini",
+        "Url": "https://rbt.ru/cat/tele-video-audio/sintezatory_i_cifrovye_fortepiano/denn_dek37_mini",
+        "Name": "Музыкальный инструмент Denn Dek37 Mini",
+        "CategoryIds": 60,
+        "comments": "5"
+    }
+}

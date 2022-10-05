@@ -1,0 +1,28 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 24490,
+        "ItemId": 793890,
+        "Vendor": "Hp",
+        "Description": "Тип устройства: LCD; Реальное разрешение: 1920х1080; Световой поток: 200 лм; Поддержка 3D: нет",
+        "TypePrefix": "Портативный проектор",
+        "Model": "Cc200",
+        "Url": "https://rbt.ru/cat/tele-video-audio/proektory/hp_cc200",
+        "Name": "Портативный проектор Hp Cc200",
+        "CategoryIds": 38,
+        "comments": ""
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 32999,
+        "ItemId": 793891,
+        "Vendor": "Hp",
+        "Description": "Тип устройства: DLP; Реальное разрешение: 854х480; Световой поток: 250 лм; Поддержка 3D: нет",
+        "TypePrefix": "Портативный проектор",
+        "Model": "Mp250",
+        "Url": "https://rbt.ru/cat/tele-video-audio/proektory/hp_mp250",
+        "Name": "Портативный проектор Hp Mp250",
+        "CategoryIds": 38,
+        "comments": ""
+    }
+}

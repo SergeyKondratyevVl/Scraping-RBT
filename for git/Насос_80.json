@@ -1,0 +1,93 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 1740,
+        "ItemId": 530759,
+        "Vendor": "Вихрь",
+        "Description": "Тип: погружной; Потребляемая мощность: 280 Вт; Производительность: 1080 л/ч; Максимальная глубина установки: 3 м",
+        "TypePrefix": "Насос",
+        "Model": "Вн-10н",
+        "Url": "https://rbt.ru/cat/sadovaya_tehnika/nasosy/vihr_vn-10n",
+        "Name": "Насос Вихрь Вн-10н",
+        "CategoryIds": 80,
+        "comments": "97"
+    },
+    "1": {
+        "OldPrice": 5390,
+        "Price": 3690,
+        "ItemId": 783658,
+        "Vendor": "Ставр",
+        "Description": "Тип: погружной; Потребляемая мощность: 950 Вт; Производительность: 15000 л/ч; Максимальная глубина установки: 8 м",
+        "TypePrefix": "Насос",
+        "Model": "Ставр Нпд-950",
+        "Url": "https://rbt.ru/cat/sadovaya_tehnika/nasosy/stavr_npd_950",
+        "Name": "Насос Ставр Ставр Нпд-950",
+        "CategoryIds": 80,
+        "comments": "1"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 1690,
+        "ItemId": 530758,
+        "Vendor": "Вихрь",
+        "Description": "Тип: погружной; Потребляемая мощность: 280 Вт; Производительность: 1080 л/ч; Максимальная глубина установки: 3 м",
+        "TypePrefix": "Насос",
+        "Model": "Вн-10в",
+        "Url": "https://rbt.ru/cat/sadovaya_tehnika/nasosy/vihr_vn-10v",
+        "Name": "Насос Вихрь Вн-10в",
+        "CategoryIds": 80,
+        "comments": "127"
+    },
+    "3": {
+        "OldPrice": 4790,
+        "Price": 3290,
+        "ItemId": 783657,
+        "Vendor": "Ставр",
+        "Description": "Тип: погружной; Потребляемая мощность: 550 Вт; Производительность: 9000 л/ч; Максимальная глубина установки: 6 м",
+        "TypePrefix": "Насос",
+        "Model": "Ставр Нпд-550",
+        "Url": "https://rbt.ru/cat/sadovaya_tehnika/nasosy/stavr_npd_550",
+        "Name": "Насос Ставр Ставр Нпд-550",
+        "CategoryIds": 80,
+        "comments": ""
+    },
+    "4": {
+        "OldPrice": 0,
+        "Price": 4790,
+        "ItemId": 701258,
+        "Vendor": "Зубр",
+        "Description": "Тип: погружной; Потребляемая мощность: 300 Вт; Производительность: 2460 л/ч; Максимальная глубина установки: 5 м",
+        "TypePrefix": "Насос",
+        "Model": "Нпб-300",
+        "Url": "https://rbt.ru/cat/sadovaya_tehnika/nasosy/zubr_npb_300",
+        "Name": "Насос Зубр Нпб-300",
+        "CategoryIds": 80,
+        "comments": "7"
+    },
+    "5": {
+        "OldPrice": 0,
+        "Price": 4190,
+        "ItemId": 373748,
+        "Vendor": "Вихрь",
+        "Description": "Тип: поверхностный; Потребляемая мощность: 370 Вт; Производительность: 2700 л/ч; Максимальная глубина установки: 9 м",
+        "TypePrefix": "Насос",
+        "Model": "Асв-370/2ч",
+        "Url": "https://rbt.ru/cat/sadovaya_tehnika/nasosy/vihr_asv-3702ch",
+        "Name": "Насос Вихрь Асв-370/2ч",
+        "CategoryIds": 80,
+        "comments": "113"
+    },
+    "6": {
+        "OldPrice": 0,
+        "Price": 2690,
+        "ItemId": 594502,
+        "Vendor": "Вихрь",
+        "Description": "Тип: погружной; Потребляемая мощность: 350 Вт; Производительность: 0 л/ч; Максимальная глубина установки: 5 м",
+        "TypePrefix": "Насос",
+        "Model": "Дн-350",
+        "Url": "https://rbt.ru/cat/sadovaya_tehnika/nasosy/vihr_dn-350",
+        "Name": "Насос Вихрь Дн-350",
+        "CategoryIds": 80,
+        "comments": "68"
+    }
+}

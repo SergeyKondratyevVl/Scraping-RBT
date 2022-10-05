@@ -1,0 +1,28 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 3090,
+        "ItemId": 643509,
+        "Vendor": "Вихрь",
+        "Description": "Максимальный диаметр диска: 125 мм; Потребляемая мощность: 450 Вт; Максимальная частота вращения диска: 14000 об/мин",
+        "TypePrefix": "Эксцентриковая шлифовальная машина",
+        "Model": "Вихрь Эшм-125э",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/shlifovalnye_mashiny/vihr_eshm-125e",
+        "Name": "Эксцентриковая шлифовальная машина Вихрь Вихрь Эшм-125э",
+        "CategoryIds": 78,
+        "comments": "18"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 3690,
+        "ItemId": 373710,
+        "Vendor": "Вихрь",
+        "Description": "Максимальный диаметр диска: 0 мм; Потребляемая мощность: 800 Вт; Максимальная частота вращения диска: 0 об/мин",
+        "TypePrefix": "Ленточная шлифовальная машина",
+        "Model": "Лшм-75/800",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/shlifovalnye_mashiny/vihr_lshm-75800",
+        "Name": "Ленточная шлифовальная машина Вихрь Лшм-75/800",
+        "CategoryIds": 78,
+        "comments": "23"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 13990,
+        "ItemId": 602481,
+        "Vendor": "Вихрь",
+        "Description": "Максимальная производительность компрессора: 300 л/мин; Объем ресивера: 50 л; Максимальное давление: 8 бар; Мощность: 2000 Вт",
+        "TypePrefix": "",
+        "Model": "Кмп-300/50",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/kompressory/vihr_kmp-300_50",
+        "Name": "Вихрь Кмп-300/50",
+        "CategoryIds": 30,
+        "comments": ""
+    }
+}

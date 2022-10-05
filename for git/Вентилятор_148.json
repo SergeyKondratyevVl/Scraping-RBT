@@ -1,0 +1,54 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 1590,
+        "ItemId": 533947,
+        "Vendor": "Binatone",
+        "Description": "Тип: напольный; Мощность: 45 Вт; Количество скоростей вращения лопастей: 3 шт; Диаметр лопастей: 40 см",
+        "TypePrefix": "Вентилятор",
+        "Model": "Sf-1606",
+        "Url": "https://rbt.ru/cat/klimaticheskaya_tehnika/ventilyatory/binatone_sf-1606",
+        "Name": "Вентилятор Binatone Sf-1606",
+        "CategoryIds": 148,
+        "comments": "35"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 1390,
+        "ItemId": 533945,
+        "Vendor": "Binatone",
+        "Description": "Тип: напольный; Мощность: 45 Вт; Количество скоростей вращения лопастей: 3 шт; Диаметр лопастей: 39.2 см",
+        "TypePrefix": "Вентилятор",
+        "Model": "Sf-1601",
+        "Url": "https://rbt.ru/cat/klimaticheskaya_tehnika/ventilyatory/binatone_sf-1601",
+        "Name": "Вентилятор Binatone Sf-1601",
+        "CategoryIds": 148,
+        "comments": "33"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 1590,
+        "ItemId": 533946,
+        "Vendor": "Binatone",
+        "Description": "Тип: напольный; Мощность: 45 Вт; Количество скоростей вращения лопастей: 3 шт; Диаметр лопастей: 39.2 см",
+        "TypePrefix": "Вентилятор",
+        "Model": "Sf-1604",
+        "Url": "https://rbt.ru/cat/klimaticheskaya_tehnika/ventilyatory/binatone_sf-1604",
+        "Name": "Вентилятор Binatone Sf-1604",
+        "CategoryIds": 148,
+        "comments": "51"
+    },
+    "3": {
+        "OldPrice": 0,
+        "Price": 790,
+        "ItemId": 533943,
+        "Vendor": "Binatone",
+        "Description": "Тип: настольный; Мощность: 15 Вт; Количество скоростей вращения лопастей: 2 шт; Диаметр лопастей: 14.7 см",
+        "TypePrefix": "Вентилятор",
+        "Model": "Tf-0602",
+        "Url": "https://rbt.ru/cat/klimaticheskaya_tehnika/ventilyatory/binatone_tf-0602",
+        "Name": "Вентилятор Binatone Tf-0602",
+        "CategoryIds": 148,
+        "comments": "10"
+    }
+}

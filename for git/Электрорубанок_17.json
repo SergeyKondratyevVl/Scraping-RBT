@@ -1,0 +1,41 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 3390,
+        "ItemId": 522582,
+        "Vendor": "Вихрь",
+        "Description": "Потребляемая мощность: 800 Вт; Число оборотов на холостом ходу: 16000 об/мин; Глубина строгания: 2 мм; Ширина ножей: 82 мм",
+        "TypePrefix": "Электрорубанок",
+        "Model": "Р-82/800",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/elektrorubanki/vihr_r-82_800",
+        "Name": "Электрорубанок Вихрь Р-82/800",
+        "CategoryIds": 17,
+        "comments": "56"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 3790,
+        "ItemId": 676007,
+        "Vendor": "Ресанта",
+        "Description": "Потребляемая мощность: 800 Вт; Число оборотов на холостом ходу: 1600 об/мин; Глубина строгания: 2 мм; Ширина ножей: 82 мм",
+        "TypePrefix": "Электрорубанок",
+        "Model": "Р-82/800",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/elektrorubanki/resanta_r-82_800",
+        "Name": "Электрорубанок Ресанта Р-82/800",
+        "CategoryIds": 17,
+        "comments": "45"
+    },
+    "2": {
+        "OldPrice": 4090,
+        "Price": 3690,
+        "ItemId": 643505,
+        "Vendor": "Вихрь",
+        "Description": "Потребляемая мощность: 1100 Вт; Число оборотов на холостом ходу: 16000 об/мин; Глубина строгания: 3 мм; Ширина ножей: 82 мм",
+        "TypePrefix": "Электрорубанок",
+        "Model": "Вихрь Р-82/1100",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/elektrorubanki/vihr_r-82_1100",
+        "Name": "Электрорубанок Вихрь Вихрь Р-82/1100",
+        "CategoryIds": 17,
+        "comments": "31"
+    }
+}

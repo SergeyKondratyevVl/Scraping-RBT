@@ -1,0 +1,54 @@
+{
+    "0": {
+        "OldPrice": 1999,
+        "Price": 1599,
+        "ItemId": 697100,
+        "Vendor": "Planta",
+        "Description": "Количество насадок: 7 шт; Встроенная сушка для лака: нет",
+        "TypePrefix": "Маникюрный набор",
+        "Model": "Pl-Man15",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/manikurnye_nabory/planta_pl_man15",
+        "Name": "Маникюрный набор Planta Pl-Man15",
+        "CategoryIds": 64,
+        "comments": "14"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 649,
+        "ItemId": 664049,
+        "Vendor": "Galaxy",
+        "Description": "Количество насадок: 5 шт; Встроенная сушка для лака: нет",
+        "TypePrefix": "Маникюрный набор",
+        "Model": "Gl 4912",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/manikurnye_nabory/galaxy_gl_4912",
+        "Name": "Маникюрный набор Galaxy Gl 4912",
+        "CategoryIds": 64,
+        "comments": "17"
+    },
+    "2": {
+        "OldPrice": 1599,
+        "Price": 1199,
+        "ItemId": 594012,
+        "Vendor": "Galaxy",
+        "Description": "Количество насадок: 8 шт; Встроенная сушка для лака: нет",
+        "TypePrefix": "Маникюрный набор",
+        "Model": "Galaxy Gl 4911",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/manikurnye_nabory/galaxy_gl_4911",
+        "Name": "Маникюрный набор Galaxy Galaxy Gl 4911",
+        "CategoryIds": 64,
+        "comments": "7"
+    },
+    "3": {
+        "OldPrice": 0,
+        "Price": 549,
+        "ItemId": 587568,
+        "Vendor": "Magnit",
+        "Description": "Количество насадок: 6 шт; Встроенная сушка для лака: нет",
+        "TypePrefix": "Маникюрный набор",
+        "Model": "Rmq-2002",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/manikurnye_nabory/magnit_rmq-2002",
+        "Name": "Маникюрный набор Magnit Rmq-2002",
+        "CategoryIds": 64,
+        "comments": ""
+    }
+}

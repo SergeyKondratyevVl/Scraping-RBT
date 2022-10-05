@@ -1,0 +1,93 @@
+{
+    "0": {
+        "OldPrice": 2299,
+        "Price": 1699,
+        "ItemId": 758613,
+        "Vendor": "Bradex",
+        "Description": "Подогрев воды: -; Пузырьковый массаж: нет; Вибромассаж: есть",
+        "TypePrefix": "Массажер",
+        "Model": "Массажер Для Тела Kz 0060",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/massazhery/bradex_massazher_dlya_tela_kz_0060",
+        "Name": "Массажер Bradex Массажер Для Тела Kz 0060",
+        "CategoryIds": 29,
+        "comments": "5"
+    },
+    "1": {
+        "OldPrice": 10490,
+        "Price": 8899,
+        "ItemId": 769964,
+        "Vendor": "Planta",
+        "Description": "Подогрев воды: нет; Количество режимов: 3 шт; Пузырьковый массаж: нет; Вибромассаж: есть",
+        "TypePrefix": "Массажер",
+        "Model": "Mf-6b",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/massazhery/planta_mf_6b",
+        "Name": "Массажер Planta Mf-6b",
+        "CategoryIds": 29,
+        "comments": "76"
+    },
+    "2": {
+        "OldPrice": 4199,
+        "Price": 3399,
+        "ItemId": 709057,
+        "Vendor": "Planta",
+        "Description": "Подогрев воды: нет; Количество режимов: 3 шт; Пузырьковый массаж: нет; Вибромассаж: есть",
+        "TypePrefix": "Массажер",
+        "Model": "Msh-400",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/massazhery/planta_msh_400",
+        "Name": "Массажер Planta Msh-400",
+        "CategoryIds": 29,
+        "comments": "17"
+    },
+    "3": {
+        "OldPrice": 4490,
+        "Price": 3699,
+        "ItemId": 616133,
+        "Vendor": "Planta",
+        "Description": "Подогрев воды: есть; Количество режимов: 3 шт; Пузырьковый массаж: есть; Вибромассаж: есть",
+        "TypePrefix": "Массажная ванночка для ног",
+        "Model": "Mfs-200v",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/massazhery/planta_mfs-200v",
+        "Name": "Массажная ванночка для ног Planta Mfs-200v",
+        "CategoryIds": 29,
+        "comments": "144"
+    },
+    "4": {
+        "OldPrice": 5990,
+        "Price": 4899,
+        "ItemId": 769967,
+        "Vendor": "Planta",
+        "Description": "Подогрев воды: есть; Количество режимов: 3 шт; Пузырьковый массаж: есть; Вибромассаж: есть",
+        "TypePrefix": "Массажная ванночка для ног",
+        "Model": "Mfs-300",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/massazhery/planta_mfs_300",
+        "Name": "Массажная ванночка для ног Planta Mfs-300",
+        "CategoryIds": 29,
+        "comments": "6"
+    },
+    "5": {
+        "OldPrice": 3399,
+        "Price": 2790,
+        "ItemId": 758610,
+        "Vendor": "Bradex",
+        "Description": "Подогрев воды: нет; Количество режимов: 3 шт; Пузырьковый массаж: нет; Вибромассаж: есть",
+        "TypePrefix": "Массажер",
+        "Model": "Массажная Подушка Kz 0473",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/massazhery/bradex_massazhnaya_podushka_kz_0473",
+        "Name": "Массажер Bradex Массажная Подушка Kz 0473",
+        "CategoryIds": 29,
+        "comments": "41"
+    },
+    "6": {
+        "OldPrice": 5590,
+        "Price": 3890,
+        "ItemId": 758614,
+        "Vendor": "Bradex",
+        "Description": "Подогрев воды: нет; Количество режимов: 4 шт; Пузырьковый массаж: нет; Вибромассаж: есть",
+        "TypePrefix": "Массажер",
+        "Model": "Массажер Для Тела Kz 0306",
+        "Url": "https://rbt.ru/cat/krasota_i_zdorove/massazhery/bradex_massazher_dlya_tela_kz_0306",
+        "Name": "Массажер Bradex Массажер Для Тела Kz 0306",
+        "CategoryIds": 29,
+        "comments": "11"
+    }
+}

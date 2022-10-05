@@ -1,0 +1,54 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 1890,
+        "ItemId": 731686,
+        "Vendor": "Gfgril",
+        "Description": "Мощность: 800 Вт; Максимальное количество блинов: 1 шт; Размер блинов: 20 см; Материал корпуса: пластик",
+        "TypePrefix": "Блинница электрическая",
+        "Model": "Gfc-B400",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/blinnicy_elektricheskie/gfgril_gfc_b400",
+        "Name": "Блинница электрическая Gfgril Gfc-B400",
+        "CategoryIds": 90,
+        "comments": "50"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 5490,
+        "ItemId": 129473,
+        "Vendor": "Tefal",
+        "Description": "Мощность: 1000 Вт; Максимальное количество блинов: 6 шт; Размер блинов: 10 см; Материал корпуса: пластик",
+        "TypePrefix": "Блинница электрическая",
+        "Model": "Py 559312",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/blinnicy_elektricheskie/tefal_py_559312",
+        "Name": "Блинница электрическая Tefal Py 559312",
+        "CategoryIds": 90,
+        "comments": "49"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 3190,
+        "ItemId": 589307,
+        "Vendor": "Redmond",
+        "Description": "Мощность: 800 Вт; Максимальное количество блинов: 1 шт; Размер блинов: 20 см; Материал корпуса: пластик",
+        "TypePrefix": "Блинница электрическая",
+        "Model": "Rsm-1409",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/blinnicy_elektricheskie/redmond_rsm-1409",
+        "Name": "Блинница электрическая Redmond Rsm-1409",
+        "CategoryIds": 90,
+        "comments": "270"
+    },
+    "3": {
+        "OldPrice": 0,
+        "Price": 2599,
+        "ItemId": 744683,
+        "Vendor": "Endever",
+        "Description": "Мощность: 1000 Вт; Максимальное количество блинов: 1 шт; Размер блинов: 30 см; Материал корпуса: пластик",
+        "TypePrefix": "Блинница электрическая",
+        "Model": "Endever Cm-30в",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/blinnicy_elektricheskie/endever_cm_30v",
+        "Name": "Блинница электрическая Endever Endever Cm-30в",
+        "CategoryIds": 90,
+        "comments": ""
+    }
+}

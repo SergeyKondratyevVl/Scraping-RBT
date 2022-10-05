@@ -1,0 +1,28 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 359,
+        "ItemId": 794507,
+        "Vendor": "Ausini",
+        "Description": "Тип: конструкторы; Возраст: 3+",
+        "TypePrefix": "Конструктор",
+        "Model": "24302 Мир Чудес: Пляжный Сезон 96дет.",
+        "Url": "https://rbt.ru/cat/tovary_dlya_detey/razvivayuschie_igry/ausini_24302_mir_chudes_plyazhnyy_sezon_96det._",
+        "Name": "Конструктор Ausini 24302 Мир Чудес: Пляжный Сезон 96дет.",
+        "CategoryIds": 184,
+        "comments": ""
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 499,
+        "ItemId": 676832,
+        "Vendor": "Ausini",
+        "Description": "Тип: конструкторы; Возраст: 6+",
+        "TypePrefix": "Конструктор",
+        "Model": "26503 Гонка. Формула Чемпионов: Багги 216дет",
+        "Url": "https://rbt.ru/cat/tovary_dlya_detey/razvivayuschie_igry/ausini_26503_gonka.__formula_chempionov_baggi_216det",
+        "Name": "Конструктор Ausini 26503 Гонка. Формула Чемпионов: Багги 216дет",
+        "CategoryIds": 184,
+        "comments": "1"
+    }
+}

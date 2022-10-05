@@ -1,0 +1,93 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 4890,
+        "ItemId": 523951,
+        "Vendor": "Вихрь",
+        "Description": "Тип: дисковая; Конструкция: ручная; Мощность: 1600 Вт; Диаметр диска: 185 мм",
+        "TypePrefix": "Электропила дисковая",
+        "Model": "Дп-185/1600",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/pily/vihr_dp-185_1600_i523951",
+        "Name": "Электропила дисковая Вихрь Дп-185/1600",
+        "CategoryIds": 161,
+        "comments": "100"
+    },
+    "1": {
+        "OldPrice": 6790,
+        "Price": 6190,
+        "ItemId": 429492,
+        "Vendor": "Huter",
+        "Description": "Тип: цепная; Конструкция: ручная; Мощность: 1800 Вт; Диаметр диска: 0 мм",
+        "TypePrefix": "Пила",
+        "Model": "Bs-45м",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/pily/huter_bs-45m",
+        "Name": "Пила Huter Bs-45м",
+        "CategoryIds": 161,
+        "comments": "194"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 5990,
+        "ItemId": 677067,
+        "Vendor": "Ресанта",
+        "Description": "Тип: дисковая; Конструкция: ручная; Мощность: 1800 Вт; Диаметр диска: 190 мм",
+        "TypePrefix": "Электропила дисковая",
+        "Model": "Дп-190/1800  75/11/2",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/pily/resanta_dp-190_1800_75_11_2",
+        "Name": "Электропила дисковая Ресанта Дп-190/1800  75/11/2",
+        "CategoryIds": 161,
+        "comments": "48"
+    },
+    "3": {
+        "OldPrice": 0,
+        "Price": 4390,
+        "ItemId": 653307,
+        "Vendor": "Huter",
+        "Description": "Тип: цепная; Конструкция: ручная; Мощность: 1500 Вт; Диаметр диска: 0 мм",
+        "TypePrefix": "Пила",
+        "Model": "Els-1500p",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/pily/huter_els-1500p",
+        "Name": "Пила Huter Els-1500p",
+        "CategoryIds": 161,
+        "comments": "98"
+    },
+    "4": {
+        "OldPrice": 0,
+        "Price": 4290,
+        "ItemId": 373699,
+        "Vendor": "Вихрь",
+        "Description": "Тип: дисковая; Конструкция: ручная; Мощность: 1300 Вт; Диаметр диска: 160 мм",
+        "TypePrefix": "Электропила дисковая",
+        "Model": "Дп-160/1300",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/pily/vihr_dp-1601300",
+        "Name": "Электропила дисковая Вихрь Дп-160/1300",
+        "CategoryIds": 161,
+        "comments": "59"
+    },
+    "5": {
+        "OldPrice": 0,
+        "Price": 5490,
+        "ItemId": 373814,
+        "Vendor": "Huter",
+        "Description": "Тип: цепная; Конструкция: ручная; Мощность: 2000 Вт; Диаметр диска: 0 мм",
+        "TypePrefix": "Пила",
+        "Model": "Els-2000p",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/pily/huter_els-2000p",
+        "Name": "Пила Huter Els-2000p",
+        "CategoryIds": 161,
+        "comments": "146"
+    },
+    "6": {
+        "OldPrice": 0,
+        "Price": 4190,
+        "ItemId": 429487,
+        "Vendor": "Вихрь",
+        "Description": "Тип: дисковая; Конструкция: ручная; Мощность: 1100 Вт; Диаметр диска: 140 мм",
+        "TypePrefix": "Электропила дисковая",
+        "Model": "Дп-140/1100",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/pily/vihr_dp-1401100",
+        "Name": "Электропила дисковая Вихрь Дп-140/1100",
+        "CategoryIds": 161,
+        "comments": "7"
+    }
+}

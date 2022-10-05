@@ -1,0 +1,28 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 179,
+        "ItemId": 522020,
+        "Vendor": "Яркий Праздник",
+        "Description": "Изготовитель: Китай; Тип: ёлочные украшения",
+        "TypePrefix": "Игрушка",
+        "Model": "16577 Набор Серебряных Шаров 10см 2шт",
+        "Url": "https://rbt.ru/cat/tovary_dlya_detey/tovary_k_prazdnikam/yarkiy_prazdnik_16577_nabor_serebryanyh_sharov_10sm_2sht",
+        "Name": "Игрушка Яркий Праздник 16577 Набор Серебряных Шаров 10см 2шт",
+        "CategoryIds": 189,
+        "comments": ""
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 179,
+        "ItemId": 522019,
+        "Vendor": "Яркий Праздник",
+        "Description": "Изготовитель: Китай; Тип: ёлочные украшения",
+        "TypePrefix": "Игрушка",
+        "Model": "16575 Набор Синих Шаров 10см 2шт",
+        "Url": "https://rbt.ru/cat/tovary_dlya_detey/tovary_k_prazdnikam/yarkiy_prazdnik_16575_nabor_sinih_sharov_10sm_2sht",
+        "Name": "Игрушка Яркий Праздник 16575 Набор Синих Шаров 10см 2шт",
+        "CategoryIds": 189,
+        "comments": ""
+    }
+}

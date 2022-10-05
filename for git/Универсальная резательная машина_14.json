@@ -1,0 +1,41 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 3390,
+        "ItemId": 695439,
+        "Vendor": "Kitfort",
+        "Description": "Мощность двигателя: 200 Вт; Режущая система: -; Материал корпуса: металл, пластик",
+        "TypePrefix": "Универсальная резательная машина",
+        "Model": "Kt-1351",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/izmelchiteli/kitfort_kt-1351",
+        "Name": "Универсальная резательная машина Kitfort Kt-1351",
+        "CategoryIds": 14,
+        "comments": "533"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 8190,
+        "ItemId": 565549,
+        "Vendor": "Белвар",
+        "Description": "Мощность двигателя: 130 Вт; Режущая система: дисковая; Материал корпуса: пластик",
+        "TypePrefix": "Универсальная резательная машина",
+        "Model": "Этб-2",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/izmelchiteli/belvar_etb-2",
+        "Name": "Универсальная резательная машина Белвар Этб-2",
+        "CategoryIds": 14,
+        "comments": "47"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 9290,
+        "ItemId": 709446,
+        "Vendor": "Gorenje",
+        "Description": "Мощность двигателя: 110 Вт; Режущая система: ротационный нож; Материал корпуса: металл, пластик; Толщина нарезки: 15 мм",
+        "TypePrefix": "Универсальная резательная машина",
+        "Model": "R607a",
+        "Url": "https://rbt.ru/cat/kuhonnaya_tehnika/izmelchiteli/gorenje_r607a",
+        "Name": "Универсальная резательная машина Gorenje R607a",
+        "CategoryIds": 14,
+        "comments": "27"
+    }
+}

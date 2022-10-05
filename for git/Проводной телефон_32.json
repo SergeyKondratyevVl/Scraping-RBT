@@ -1,0 +1,41 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 890,
+        "ItemId": 87881,
+        "Vendor": "Texet",
+        "Description": "Тип: проводной; Количество трубок в комплекте: 1 шт; Стандарт DECT: -",
+        "TypePrefix": "Проводной телефон",
+        "Model": "Tx-201 Черный",
+        "Url": "https://rbt.ru/cat/cifrovye_ustroistva/domashnie_i_ofisnye_telefony/texet_tx-201_chernyy",
+        "Name": "Проводной телефон Texet Tx-201 Черный",
+        "CategoryIds": 32,
+        "comments": "49"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 890,
+        "ItemId": 522912,
+        "Vendor": "Texet",
+        "Description": "Тип: проводной; Количество трубок в комплекте: 1 шт; Стандарт DECT: -",
+        "TypePrefix": "Проводной телефон",
+        "Model": "Tx-201 Белый",
+        "Url": "https://rbt.ru/cat/cifrovye_ustroistva/domashnie_i_ofisnye_telefony/texet_tx-201_belyy",
+        "Name": "Проводной телефон Texet Tx-201 Белый",
+        "CategoryIds": 32,
+        "comments": "49"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 690,
+        "ItemId": 422308,
+        "Vendor": "Texet",
+        "Description": "Тип: проводной; Количество трубок в комплекте: 1 шт; Стандарт DECT: -",
+        "TypePrefix": "Проводной телефон",
+        "Model": "Tx-219 Светло-Серый",
+        "Url": "https://rbt.ru/cat/cifrovye_ustroistva/domashnie_i_ofisnye_telefony/texet_tx-219_svetlo-seryy",
+        "Name": "Проводной телефон Texet Tx-219 Светло-Серый",
+        "CategoryIds": 32,
+        "comments": "3"
+    }
+}

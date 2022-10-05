@@ -1,0 +1,93 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 2990,
+        "ItemId": 677838,
+        "Vendor": "Ресанта",
+        "Description": "Тип инструмента: ручной; Мощность: 650 Вт; Маятниковый ход: есть; Быстрозажимное крепление пилки: -",
+        "TypePrefix": "Лобзик",
+        "Model": "Л-65/650",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/lobziki/resanta_l-65_650",
+        "Name": "Лобзик Ресанта Л-65/650",
+        "CategoryIds": 120,
+        "comments": "17"
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 1990,
+        "ItemId": 373713,
+        "Vendor": "Вихрь",
+        "Description": "Тип инструмента: ручной; Мощность: 600 Вт; Маятниковый ход: нет; Быстрозажимное крепление пилки: нет",
+        "TypePrefix": "Лобзик",
+        "Model": "Лэ-55",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/lobziki/vihr_le-55",
+        "Name": "Лобзик Вихрь Лэ-55",
+        "CategoryIds": 120,
+        "comments": "145"
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 3290,
+        "ItemId": 373712,
+        "Vendor": "Вихрь",
+        "Description": "Тип инструмента: ручной; Мощность: 850 Вт; Маятниковый ход: есть; Быстрозажимное крепление пилки: нет",
+        "TypePrefix": "Лобзик",
+        "Model": "Лэ-100",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/lobziki/vihr_le-100",
+        "Name": "Лобзик Вихрь Лэ-100",
+        "CategoryIds": 120,
+        "comments": "79"
+    },
+    "3": {
+        "OldPrice": 1990,
+        "Price": 1490,
+        "ItemId": 677944,
+        "Vendor": "Kolner",
+        "Description": "Тип инструмента: ручной; Мощность: 480 Вт; Маятниковый ход: нет; Быстрозажимное крепление пилки: нет",
+        "TypePrefix": "Лобзик",
+        "Model": "Kjs 480",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/lobziki/kolner_kjs_480",
+        "Name": "Лобзик Kolner Kjs 480",
+        "CategoryIds": 120,
+        "comments": "56"
+    },
+    "4": {
+        "OldPrice": 0,
+        "Price": 2890,
+        "ItemId": 373714,
+        "Vendor": "Вихрь",
+        "Description": "Тип инструмента: ручной; Мощность: 750 Вт; Маятниковый ход: есть; Быстрозажимное крепление пилки: нет",
+        "TypePrefix": "Лобзик",
+        "Model": "Лэ-80",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/lobziki/vihr_le-80",
+        "Name": "Лобзик Вихрь Лэ-80",
+        "CategoryIds": 120,
+        "comments": "88"
+    },
+    "5": {
+        "OldPrice": 0,
+        "Price": 3790,
+        "ItemId": 785736,
+        "Vendor": "Интерскол",
+        "Description": "Тип инструмента: ручной; Мощность: 550 Вт; Маятниковый ход: есть; Быстрозажимное крепление пилки: есть",
+        "TypePrefix": "Лобзик",
+        "Model": "Интерскол Мп-65/550э (101.1.1.00)",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/lobziki/interskol_mp_65_550e_101._1._1._00",
+        "Name": "Лобзик Интерскол Интерскол Мп-65/550э (101.1.1.00)",
+        "CategoryIds": 120,
+        "comments": "66"
+    },
+    "6": {
+        "OldPrice": 0,
+        "Price": 3290,
+        "ItemId": 677619,
+        "Vendor": "Ресанта",
+        "Description": "Тип инструмента: ручной; Мощность: 750 Вт; Маятниковый ход: есть; Быстрозажимное крепление пилки: есть",
+        "TypePrefix": "Лобзик",
+        "Model": "Л-80/750",
+        "Url": "https://rbt.ru/cat/instrumenty_dlya_doma/lobziki/resanta_l-80_750",
+        "Name": "Лобзик Ресанта Л-80/750",
+        "CategoryIds": 120,
+        "comments": "61"
+    }
+}

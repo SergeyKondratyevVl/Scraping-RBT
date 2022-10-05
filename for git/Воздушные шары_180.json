@@ -1,0 +1,54 @@
+{
+    "0": {
+        "OldPrice": 0,
+        "Price": 109,
+        "ItemId": 771096,
+        "Vendor": "Bebelot",
+        "Description": "Возраст: 6+; Говорящая: -; Питание: -; Пол: -",
+        "TypePrefix": "Воздушные шары",
+        "Model": "Набор Шаров Поздравления Шелкография 5 Шт. 30 См Пастель Разноцвет.",
+        "Url": "https://rbt.ru/cat/tovary_dlya_detey/detskie_igrushki/bebelot_nabor_sharov_pozdravleniya_shelkografiya_5_sht.__30_sm_pastel_raznocvet._",
+        "Name": "Воздушные шары Bebelot Набор Шаров Поздравления Шелкография 5 Шт. 30 См Пастель Разноцвет.",
+        "CategoryIds": 180,
+        "comments": ""
+    },
+    "1": {
+        "OldPrice": 0,
+        "Price": 239,
+        "ItemId": 551101,
+        "Vendor": "Bebelot",
+        "Description": "Возраст: 6+; Говорящая: нет; Питание: -; Пол: для всех",
+        "TypePrefix": "Воздушные шары",
+        "Model": "Bho1705-016 Набор Шаров 100шт 25см",
+        "Url": "https://rbt.ru/cat/tovary_dlya_detey/detskie_igrushki/bebelot_bho1705-016_nabor_sharov_100sht_25sm",
+        "Name": "Воздушные шары Bebelot Bho1705-016 Набор Шаров 100шт 25см",
+        "CategoryIds": 180,
+        "comments": ""
+    },
+    "2": {
+        "OldPrice": 0,
+        "Price": 439,
+        "ItemId": 614430,
+        "Vendor": "Machine Boy",
+        "Description": "Возраст: 3+; Говорящая: нет; Питание: -; Пол: для мальчиков",
+        "TypePrefix": "Робот",
+        "Model": "Msb1611-100",
+        "Url": "https://rbt.ru/cat/tovary_dlya_detey/detskie_igrushki/machine_boy_msb1611-100",
+        "Name": "Робот Machine Boy Msb1611-100",
+        "CategoryIds": 180,
+        "comments": "2"
+    },
+    "3": {
+        "OldPrice": 0,
+        "Price": 119,
+        "ItemId": 541473,
+        "Vendor": "Bebelot",
+        "Description": "Возраст: 6+; Говорящая: -; Питание: -; Пол: -",
+        "TypePrefix": "Воздушные шары",
+        "Model": "Bho1705-004 Набор Воздушных Шаров Металлик 10шт 30см",
+        "Url": "https://rbt.ru/cat/tovary_dlya_detey/detskie_igrushki/bebelot_bho1705-004_nabor_vozdushnyh_sharov_metallik_10sht_30sm",
+        "Name": "Воздушные шары Bebelot Bho1705-004 Набор Воздушных Шаров Металлик 10шт 30см",
+        "CategoryIds": 180,
+        "comments": ""
+    }
+}
